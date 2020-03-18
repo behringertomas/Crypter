@@ -1,0 +1,1 @@
+python3 -m pip install Kivy-2.0.0rc1-cp38-cp38-macosx_10_13_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl
